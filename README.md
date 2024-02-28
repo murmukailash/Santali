@@ -1,0 +1,2 @@
+# santali
+All santhali projects.
